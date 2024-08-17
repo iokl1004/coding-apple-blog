@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coding-apple-blog/static/css/main.52be7d1c.css",
+    "main.js": "/coding-apple-blog/static/js/main.97169006.js",
+    "index.html": "/coding-apple-blog/index.html",
+    "main.52be7d1c.css.map": "/coding-apple-blog/static/css/main.52be7d1c.css.map",
+    "main.97169006.js.map": "/coding-apple-blog/static/js/main.97169006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52be7d1c.css",
+    "static/js/main.97169006.js"
+  ]
+}
